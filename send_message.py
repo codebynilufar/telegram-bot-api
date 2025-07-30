@@ -4,7 +4,7 @@ from settings import TOKEN
 url = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
 
 params = {
-    'chat_id': 1258594598,
+    'chat_id': 6567130987,
     'text': "salom"
 }
 
